@@ -4,3 +4,11 @@ psycopg2-binary
 requests
 scikit-learn
 lightgbm
+matplotlib
+fastapi
+uvicorn
+python-multipart
+python-jose[cryptography]
+passlib
+bcrypt==4.0.1
+slowapi
